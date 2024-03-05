@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+    text-decoration: none;
+  }
+  .panel{
+    height: 60px;
+    background-color:  rgb(11, 2, 2);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .panel-logo{
+    height: 50px;
+    width: 100px;
+}
+  .logo{
+    background-image:url("health_logo1.png");
+    background-size:cover;
+    height: 50px;
+     width: 85px;
+   }

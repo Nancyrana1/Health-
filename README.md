@@ -1,0 +1,1 @@
+At Healthसहयोगी, we believe that every individual, irrespective of their location or economic situation, deserves access to quality healthcare. Our mission is to narrow the gap between disadvantaged communities and vital medical services through NGOs, government schemes, and medical infrastructure. 
